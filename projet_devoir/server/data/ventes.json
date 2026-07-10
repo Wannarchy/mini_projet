@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "image": "https://picsum.photos/seed/sac1/400/400",
+    "titre": "Sac à main cuir premium",
+    "description": "Sac en cuir véritable, fabrication artisanale.",
+    "categorie": "Mode",
+    "prix": 89.90
+  },
+  {
+    "id": 2,
+    "image": "https://picsum.photos/seed/casque2/400/400",
+    "titre": "Casque audio sans fil",
+    "description": "Réduction de bruit active, autonomie 30h.",
+    "categorie": "High-Tech",
+    "prix": 59.00
+  },
+  {
+    "id": 3,
+    "image": "https://picsum.photos/seed/montre3/400/400",
+    "titre": "Montre connectée sportive",
+    "description": "Suivi du rythme cardiaque, GPS intégré et notifications intelligentes.",
+    "categorie": "High-Tech",
+    "prix": 129.90
+  },
+  {
+    "id": 4,
+    "image": "https://picsum.photos/seed/chaussures4/400/400",
+    "titre": "Chaussures de sport",
+    "description": "Chaussures légères et confortables pour vos activités quotidiennes.",
+    "categorie": "Mode",
+    "prix": 74.50
+  },
+  {
+    "id": 5,
+    "image": "https://picsum.photos/seed/clavier5/400/400",
+    "titre": "Clavier mécanique RGB",
+    "description": "Clavier gaming avec rétroéclairage personnalisable.",
+    "categorie": "High-Tech",
+    "prix": 79.99
+  },
+  {
+    "id": 6,
+    "image": "https://picsum.photos/seed/lunettes6/400/400",
+    "titre": "Lunettes de soleil élégantes",
+    "description": "Lunettes avec protection UV et monture résistante.",
+    "categorie": "Mode",
+    "prix": 39.90
+  },
+  {
+    "id": 7,
+    "image": "https://picsum.photos/seed/enceinte7/400/400",
+    "titre": "Enceinte Bluetooth portable",
+    "description": "Son puissant, étanche et autonomie longue durée.",
+    "categorie": "High-Tech",
+    "prix": 45.00
+  },
+  {
+    "id": 8,
+    "image": "https://picsum.photos/seed/lampe8/400/400",
+    "titre": "Lampe de bureau LED",
+    "description": "Lampe moderne avec intensité réglable et port USB.",
+    "categorie": "Maison",
+    "prix": 29.90
+  },
+  {
+    "id": 9,
+    "image": "https://picsum.photos/seed/ordinateur9/400/400",
+    "titre": "Ordinateur portable professionnel",
+    "description": "PC performant pour le travail et les études.",
+    "categorie": "Informatique",
+    "prix": 699.00
+  },
+  {
+    "id": 10,
+    "image": "https://picsum.photos/seed/appareil10/400/400",
+    "titre": "Appareil photo numérique",
+    "description": "Caméra haute résolution pour capturer vos meilleurs moments.",
+    "categorie": "Photo",
+    "prix": 349.90
+  }
+]
